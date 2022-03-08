@@ -47,3 +47,24 @@ Lista de tarefas:
 
 Inserir link:
 [acesse meu GitHub](https://github.com/sousalorena)
+
+Tabela:
+Número | Nome | Nota
+---|---|---
+1 | João | 9,5
+2 | Maria | 10,0
+3 | José | 7,0
+
+Diferenciar texto de comando:
+Não sei o que significa `document.getElementById()` da linguagem JavaScript
+
+Para enviar um programa:
+```
+programa
+```
+
+Inserindo emojis
+digita : + nome do emoji 🥰 ✋
+
+Criar quote
+> Será que vai chover?
